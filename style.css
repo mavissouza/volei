@@ -96,9 +96,29 @@ ul {
 }
 
 .textoPrincipal{
-	text-align: center; font-size: 20px; color: #010002
+	text-align: center; font-size: 40px; color: #010002
 }
 
 .textoPrincipal{
-	text-align: center; font-size: 20px; color: #010002
+	text-align: center; font-size: 40px; color: #010002
+}
+
+.titulo-centralizado{
+	text-align: center; font-size: 40px; color: #010002
+}
+
+.titulo-centralizado{
+  margin-left: -2%
+}
+
+.posições{
+	text-align: center; font-size: 40px; color: #010002
+}
+
+.primeiroTitulo{
+	text-align: center;font-size:  40px; color: #010002
+}
+
+.segundoTitulo{
+	text-align: center;font-size: 40px; color: #010002
 }
