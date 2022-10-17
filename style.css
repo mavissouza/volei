@@ -2,6 +2,56 @@ body {
 
 }
 
+.tituloPrincipal{
+	text-align: center; font-size: 100px; color: 010002; margin-left: -5%
+}
+
+.jogo{
+	width: 50%; margin-left: 23%
+}
+
+.primeiroTexto{
+	text-align: center;font-size: 40px; color: 010002
+}
+
+.tituloRegras {
+	text-align: center; text-align: center; font-size: 45px; color: #010002; margin-left: -5%
+}
+
+.textoRegras {
+	text-align: center; font-size: 35px; color: #010002
+}
+
+.primeiroTitulo{
+	text-align: center;font-size:  45px; color: #010002
+}
+
+.posições{
+	text-align: center; font-size: 40px; color: #010002
+}
+
+.segundoTitulo{
+	text-align: center;font-size: 45px; color: #010002; margin-left: -5%
+}
+
+.levantadorTitulo{
+	text-align: left; font-size: 40px; color: #010002
+}
+
+.levantadorImagem {
+	margin-left: 25%
+}
+
+.levantadorTexto{
+	text-align: center; font-size: 35px
+}
+
+.opostoTitulo{
+	text-align: left; font-size: 40px; color: #01000
+}
+
+
+
 #banner {
 	width:100%;
 }
@@ -14,11 +64,9 @@ body {
 .titulo-principal {
 	padding-left: 20px;
 }
-
-.titulo-centralizado {
-	text-align: center
+.levantador{
+	margin-left: 25%
 }
-
 p {
 	text-align: center;
 }
@@ -27,9 +75,6 @@ p {
 	font-size: 20px
 }
 
-em strong {
-	color: ##bad3c6
-}
 
 .itens {
 	font-style: italic
@@ -51,18 +96,6 @@ ul {
 	width: 50%;
 }
 
-.levantador{
-	margin-left: 25%
-}
-
-.jogo{
-	margin-left: 23%
-}
-
-.jogo{
-	width: 50%
-}
-
 .oposto{
 	width: 50%
 }
@@ -93,45 +126,13 @@ ul {
 
 .líbero{
 	margin-left: 25%
-}
-
-.textoPrincipal{
-	text-align: center; font-size: 40px; color: #010002
-}
-
-.textoPrincipal{
-	text-align: center; font-size: 40px; color: #010002
-}
-
-.titulo-centralizado{
-	text-align: center; font-size: 45px; color: #010002
-}
-
-.titulo-centralizado{
-  margin-left: -1%.opostoTitulo{
-	text-align: center ;font-size: 40px;
-}
-
-.posições{
-	text-align: center; font-size: 40px; color: #010002
-}
-
-.primeiroTitulo{
-	text-align: center;font-size:  45px; color: #010002
-}
-
-.segundoTitulo{
-	text-align: center;font-size: 45px; color: #010002
-}
-
-.levantadorTitulo{
-	text-align: left; font-size: 40px; color: #010002
-}
-
-.titulo-principal{
-	text-align: center;font-size: 60px; margin-left: -5%
 }
 
 .opostoTitulo{
-	text-align: left;font-size: 40px; color: #010002
+	text-align: center ;font-size: 40px;
+}
+
+
+.opostoTitulo{
+	text-align: left; font-size: 40px; color: #01000
 }
