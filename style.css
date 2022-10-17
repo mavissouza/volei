@@ -104,11 +104,12 @@ ul {
 }
 
 .titulo-centralizado{
-	text-align: center; font-size: 40px; color: #010002
+	text-align: center; font-size: 45px; color: #010002
 }
 
 .titulo-centralizado{
-  margin-left: -2%
+  margin-left: -1%.opostoTitulo{
+	text-align: center ;font-size: 40px;
 }
 
 .posições{
@@ -116,9 +117,21 @@ ul {
 }
 
 .primeiroTitulo{
-	text-align: center;font-size:  40px; color: #010002
+	text-align: center;font-size:  45px; color: #010002
 }
 
 .segundoTitulo{
-	text-align: center;font-size: 40px; color: #010002
+	text-align: center;font-size: 45px; color: #010002
+}
+
+.levantadorTitulo{
+	text-align: left; font-size: 40px; color: #010002
+}
+
+.titulo-principal{
+	text-align: center;font-size: 60px; margin-left: -5%
+}
+
+.opostoTitulo{
+	text-align: left;font-size: 40px; color: #010002
 }
