@@ -1,5 +1,5 @@
 body {
-
+	background-color: #c0d88c
 }
 
 .tituloPrincipal{
@@ -7,15 +7,15 @@ body {
 }
 
 .jogo{
-	width: 50%; margin-left: 23%
+	width: 50%; margin-left: 23%; color: 010002;
 }
 
 .primeiroTexto{
-	text-align: center;font-size: 40px; color: 010002
+	text-align: center;font-size: 40px; color: #010002
 }
 
 .tituloRegras {
-	text-align: center; text-align: center; font-size: 45px; color: #010002; margin-left: -5%
+	text-align: center; text-align: center; font-size: 45px; color: #1c5052; margin-left: -5%
 }
 
 .textoRegras {
@@ -43,12 +43,61 @@ body {
 }
 
 .levantadorTexto{
-	text-align: center; font-size: 35px
+	text-align: center; font-size: 35px; color: #010002
 }
 
 .opostoTitulo{
-	text-align: left; font-size: 40px; color: #01000
+	text-align: left; font-size: 40px; color: #010002
 }
+
+.opostoImagem{
+    margin-left: 25%;
+		 width:50%;
+}
+
+.opostoTexto{
+	text-align: center; font-size: 35px; color: #010002
+}
+
+.ponteiroTitulo{
+	text-align: left; font-size: 40px; color: #010002
+}
+
+.ponteiroImagem{
+	margin-left: 25%;
+	width: 50%
+}
+
+.ponteiroTexto{
+	text-align: center; font-size: 35px; color: #010002
+}
+
+.centralTitulo{
+	text-align: left;font-size: 40px; color: #010002
+}
+
+.centralImagem{
+	margin-left: 25%; width: 50%;
+}
+
+.centralTexto{
+	text-align: center; font-size: 35px; color: #010002
+}
+
+.liberoTitulo{
+	text-align: left; font-size: 40px; color: #010002
+}
+
+.liberoImagem{
+	margin-left: 25%;
+	width: 50%
+}
+
+.liberoTexto{
+	text-align: center;font-size: 35px; color: #010002
+}
+
+
 
 
 
@@ -94,45 +143,4 @@ ul {
 
 .imagembeneficios {
 	width: 50%;
-}
-
-.oposto{
-	width: 50%
-}
-
-.oposto{
-	margin-left: 25%
-}
-
-.ponteiro{
-	width: 50%
-}
-
-.ponteiro{
-	margin-left: 25%
-}
-
-.central{
-	width: 50%
-}
-
-.central{
-	margin-left: 25%
-}
-
-.líbero{
-	width: 50%
-}
-
-.líbero{
-	margin-left: 25%
-}
-
-.opostoTitulo{
-	text-align: center ;font-size: 40px;
-}
-
-
-.opostoTitulo{
-	text-align: left; font-size: 40px; color: #01000
 }
