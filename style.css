@@ -3,7 +3,7 @@ body {
 }
 
 .tituloPrincipal{
-	text-align: center; font-size: 100px; color: 010002; margin-left: -5%
+	text-align: center; font-size: 100px; color: #006400; margin-left: -5%
 }
 
 .jogo{
@@ -11,31 +11,33 @@ body {
 }
 
 .primeiroTexto{
-	text-align: center;font-size: 40px; color: #010002
+	text-align: center;font-size: 40px; color: #010002; font-family: inherit;
 }
 
 .tituloRegras {
-	text-align: center; text-align: center; font-size: 45px; color: #1c5052; margin-left: -5%
+	text-align: center; text-align: center; font-size: 45px; color: #006400; margin-left: -5%
 }
 
 .textoRegras {
-	text-align: center; font-size: 35px; color: #010002
+	text-align: center; font-size: 35px; color: ##010002;
+	font-family: inherit;
 }
 
 .primeiroTitulo{
-	text-align: center;font-size:  45px; color: #010002
+	text-align: center;font-size:  45px; color: #006400
 }
 
 .posições{
-	text-align: center; font-size: 40px; color: #010002
+	text-align: center; font-size: 40px; color: #010002;
+	font-family: inherit;
 }
 
 .segundoTitulo{
-	text-align: center;font-size: 45px; color: #010002; margin-left: -5%
+	text-align: center;font-size: 45px; color: #006400; margin-left: -5%
 }
 
 .levantadorTitulo{
-	text-align: left; font-size: 40px; color: #010002
+	text-align: left; font-size: 40px; color: #006400
 }
 
 .levantadorImagem {
@@ -43,11 +45,11 @@ body {
 }
 
 .levantadorTexto{
-	text-align: center; font-size: 35px; color: #010002
+	text-align: center; font-size: 35px; color: #010002; font-family: inherit;
 }
 
 .opostoTitulo{
-	text-align: left; font-size: 40px; color: #010002
+	text-align: left; font-size: 40px; color: #006400
 }
 
 .opostoImagem{
@@ -56,11 +58,12 @@ body {
 }
 
 .opostoTexto{
-	text-align: center; font-size: 35px; color: #010002
+	text-align: center; font-size: 35px; color: #010002;
+	font-family: inherit;
 }
 
 .ponteiroTitulo{
-	text-align: left; font-size: 40px; color: #010002
+	text-align: left; font-size: 40px; color: #006400
 }
 
 .ponteiroImagem{
@@ -73,7 +76,7 @@ body {
 }
 
 .centralTitulo{
-	text-align: left;font-size: 40px; color: #010002
+	text-align: left;font-size: 40px; color: #006400
 }
 
 .centralImagem{
@@ -81,11 +84,11 @@ body {
 }
 
 .centralTexto{
-	text-align: center; font-size: 35px; color: #010002
+	text-align: center; font-size: 35px; color: #010002; font-family: inherit;
 }
 
 .liberoTitulo{
-	text-align: left; font-size: 40px; color: #010002
+	text-align: left; font-size: 40px; color: #006400
 }
 
 .liberoImagem{
