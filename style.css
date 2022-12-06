@@ -8,6 +8,7 @@ body {
 
 .jogo{
 	width: 50%; margin-left: 23%; color: 010002;
+	border: 5px solid green;
 }
 
 .primeiroTexto{
@@ -41,7 +42,8 @@ body {
 }
 
 .levantadorImagem {
-	margin-left: 25%
+	margin-left: 25%;
+	border: 5px solid green;
 }
 
 .levantadorTexto{
@@ -55,6 +57,7 @@ body {
 .opostoImagem{
     margin-left: 25%;
 		 width:50%;
+		 border: 5px solid green
 }
 
 .opostoTexto{
@@ -68,7 +71,8 @@ body {
 
 .ponteiroImagem{
 	margin-left: 25%;
-	width: 50%
+	width: 50%;
+	border: 5px solid green;
 }
 
 .ponteiroTexto{
@@ -81,6 +85,7 @@ body {
 
 .centralImagem{
 	margin-left: 25%; width: 50%;
+	border: 5px solid green
 }
 
 .centralTexto{
@@ -93,7 +98,8 @@ body {
 
 .liberoImagem{
 	margin-left: 25%;
-	width: 50%
+	width: 50%;
+	 border: 5px solid green;
 }
 
 .liberoTexto{
